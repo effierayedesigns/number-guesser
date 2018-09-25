@@ -1,0 +1,16 @@
+{
+  "name": "number-guessing",
+  "version": "1.0.0",
+  "description": "A simple number guessing game built with vanilla Javascript",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://effierayedesigns.github.io/number-guesser",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Effemie Boone",
+  "license": "MIT"
+}
